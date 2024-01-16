@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\sıladır\sıladır\bin\Debug\sıladır.exe.config
+C:\Users\User\source\repos\sıladır\sıladır\bin\Debug\sıladır.exe
+C:\Users\User\source\repos\sıladır\sıladır\bin\Debug\sıladır.pdb
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.Form1.resources
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.Properties.Resources.resources
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.exe
+C:\Users\User\source\repos\sıladır\sıladır\obj\Debug\sıladır.pdb
